@@ -7,7 +7,7 @@
         "tailwindcss": "^4.1.8"
     },
     "scripts": {
-        "dev": "npx @tailwindcss/cli -i /healthora/assets/css/tailwind.css -o assets/css/style.css --watch",
-        "build": "npx @tailwindcss/cli -i /healthora/assets/css/tailwind.css -o assets/css/style.css --minify"
+        "dev": "npx @tailwindcss/cli -i /assets/css/tailwind.css -o assets/css/style.css --watch",
+        "build": "npx @tailwindcss/cli -i /assets/css/tailwind.css -o assets/css/style.css --minify"
     }
 }
